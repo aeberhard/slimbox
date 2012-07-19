@@ -1,0 +1,4 @@
+slimbox
+=======
+
+REDAXO Addon slimbox
